@@ -1,1 +1,2 @@
 # vehicle_service_management
+The Vehicle Service Management System is a software application developed in Python, designed to streamline and automate the operations of vehicle service centers. This system provides an efficient platform to manage customer details, vehicle information, service bookings, and payment records. It eliminates the need for manual processes, ensuring accuracy and enhancing overall productivity.
